@@ -76,3 +76,4 @@ Data Warga
 |pekerjaan|varchar|mahasiswa|
 
 # UX Frame
+![image](https://user-images.githubusercontent.com/112849065/190946647-fa09a45f-6c17-458f-bf0a-baec6ea7a1a1.png)
