@@ -1,11 +1,13 @@
 # Assessment Praktikum
-- NAMA : **Tegar Levta Anggana**
-- NIM : **1207050123**
-- KELAS PRAKTIKUM : **H**
+- NAMA : **Sharina Fitrani Ramallah**
+- NIM : **1207050119**
+- KELAS PRAKTIKUM : **F*
+*
 - KELAS TEORI : **F**
 ## [Assessments](https://github.com/insanalamin/2223-IF215007_8-pengembangan-aplikasi-web#workshop-class-1-credit)
 ### Demo : Git installation
-- <img width="500" alt="image" src="https://user-images.githubusercontent.com/80917799/209251171-dc341f25-7822-48eb-a151-7de83a880d5e.png">
+- ![image](https://user-images.githubusercontent.com/112849065/209975205-31f742a3-f67e-4cd5-8b2d-21cd4970e93f.png)
+
 
 ### Demo : Github project initialization
 - https://github.com/tegar-anggana/2223-IF215007_8-pengembangan-aplikasi-web
