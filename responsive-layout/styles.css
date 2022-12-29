@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Quicksand", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  width: 100vw;
+  border: 1px solid black;
+  justify-content: space-evenly;
+  position: fixed;
+  top: 0;
+  background-color: white;
+}
+
+.garis-bawah {
+  border-bottom: 3px solid black;
+}
+
+.logo .logo-desktop {
+  width: 120px;
+}
+
+.logo {
+  padding: 16px;
+}
+
+.navigasi {
+  display: flex;
+  align-items: center;
+  gap: 34px;
+}
+
+.navigasi p {
+  /* border: 2px solid black; */
+  height: fit-content;
+  padding: 10px;
+}
+
+.action-kanan {
+  display: flex;
+  align-items: center;
+  gap: 34px;
+}
+
+.action-kanan p {
+  /* border: 2px solid black; */
+  height: fit-content;
+  padding: 10px;
+}
+
+.page {
+  padding-top: 80px;
+  background-image: url(https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/commons/dashboard-home-illustration.png),
+    linear-gradient(218.23deg, #055472 20.4%, #033e5e 77.97%);
+  color: white;
+}
+
+.hero h4 {
+  padding-top: 10px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.hero {
+  padding: 40px 50px;
+}
+
+.white-box {
+  color: black;
+  background-color: white;
+  border-radius: 7px;
+  padding: 20px;
+}
+
+.status-langganan {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.white-box-inside {
+  border-radius: 5px;
+  border: 1px solid #586a7478;
+  padding: 20px;
+  display: flex;
+}
+
+.wbi-button-wrapper button {
+  display: block;
+  background-color: #033e5e;
+  color: white;
+  font-weight: bold;
+  padding: 18px 20px;
+  border: none;
+}
+
+.logo-mobile {
+  display: none;
+}
+
+@media only screen and (max-width: 980px) {
+  .ngilang-pas-mobile {
+    display: none;
+  }
+  .navbar {
+    justify-content: start;
+  }
+  .action-kanan {
+    margin-left: auto;
+    padding-right: 20px;
+  }
+  .garis-bawah {
+    border: none;
+  }
+  .white-box-inside {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .logo-mobile {
+    display: block;
+  }
+  .logo-desktop {
+    display: none;
+  }
+}
