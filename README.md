@@ -20,7 +20,7 @@
 - ![image](https://user-images.githubusercontent.com/112849065/209976629-056160e9-0fc4-4559-92f1-e69b05946faf.png)
 
 ### Demo : HTML Responsive Layout with Media Query & Flexbox
--
+-https://github.com/sharramallah/https-github.com-sharramallah-2223-IF215007_8-pengembangan-aplikasi-web/tree/main/responsive-layout 
 
 ### Demo : Javascript Data Transformation
 - ![image](https://user-images.githubusercontent.com/112849065/209978340-7ae3648a-6e3d-49a5-9ee4-97e308fb97e0.png)
@@ -38,7 +38,7 @@
 - 
  
 ### Demo : HTML Responsive Layout with Bootstrap
-- https://github.com/sharramallah/https-github.com-sharramallah-2223-IF215007_8-pengembangan-aplikasi-web/tree/main/responsive-layout 
+- 
  
 ### Demo : Single Page App with React & React-router
 - ![image](https://user-images.githubusercontent.com/112849065/209978752-a46f08af-9bcc-4e6f-8955-a0c59f6dea41.png)
