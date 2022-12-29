@@ -1,7 +1,7 @@
 # Assessment Praktikum
 - NAMA : **Sharina Fitrani Ramallah**
 - NIM : **1207050119**
-- KELAS PRAKTIKUM : **F*
+- KELAS PRAKTIKUM : **F**
 *
 - KELAS TEORI : **F**
 ## [Assessments](https://github.com/insanalamin/2223-IF215007_8-pengembangan-aplikasi-web#workshop-class-1-credit)
@@ -38,7 +38,7 @@
 - 
  
 ### Demo : HTML Responsive Layout with Bootstrap
-- 
+- https://github.com/sharramallah/https-github.com-sharramallah-2223-IF215007_8-pengembangan-aplikasi-web/tree/main/responsive-layout 
  
 ### Demo : Single Page App with React & React-router
 - ![image](https://user-images.githubusercontent.com/112849065/209978752-a46f08af-9bcc-4e6f-8955-a0c59f6dea41.png)
