@@ -2,7 +2,6 @@
 - NAMA : **Sharina Fitrani Ramallah**
 - NIM : **1207050119**
 - KELAS PRAKTIKUM : **F**
-*
 - KELAS TEORI : **F**
 ## [Assessments](https://github.com/insanalamin/2223-IF215007_8-pengembangan-aplikasi-web#workshop-class-1-credit)
 ### Demo : Git installation
@@ -52,14 +51,16 @@
 
 
 ### Demo : PostgreSQL / MySQL installation
-- 
+- ![image](https://user-images.githubusercontent.com/112849065/210161786-920ec5b0-0d4e-477b-872b-ec53a83f911c.png)
+
 
 ### Demo : DBeaver installation & DB connection
 - ![image](https://user-images.githubusercontent.com/112849065/210021195-38de0d0b-e5e3-4ff4-b807-843128956b40.png)
 -
 
 ### Demo : Linux server operation
-- 
+- ![image](https://user-images.githubusercontent.com/112849065/210161738-25f3286e-34d6-4b41-972d-0458a60ff6c9.png)
+
 
 ### Demo : Nginx / Apache web server installation & operation
 - ![image](https://user-images.githubusercontent.com/112849065/210020535-027cd8b9-6b05-4263-b0f9-86ffb4a41b9e.png)
@@ -75,13 +76,19 @@
 - ![image](https://user-images.githubusercontent.com/80917799/209897673-bf3c47e1-223a-4c31-a080-b7ea145f8dab.png)
 
 ### Demo : Domain registration
-- 
+- ![domain](https://user-images.githubusercontent.com/112849065/210161685-88aca5a2-9c31-47d2-a01c-a30ac0d77a3c.jpeg)
+
 
 ### Demo : PHP DB - Dynamic Web Page
-- 
+- ![image](https://user-images.githubusercontent.com/112849065/210162078-a8990fa3-17a9-4951-a218-42e5c4256e75.png)
+- ![image](https://user-images.githubusercontent.com/112849065/210162167-46a4778a-d699-405d-82fc-b5d43b897efc.png)
+
 
 ### Demo : Deploy PHP Project to Cpanel
-- 
+- ![image](https://user-images.githubusercontent.com/112849065/210161716-ae003195-84e9-4bfa-b7bc-dcbd9ed5f5ef.png)
+
 
 ### Demo : News Site using Wordpress
-- 
+- https://sharramallah.wordpress.com/
+- ![image](https://user-images.githubusercontent.com/112849065/210161694-45cca953-acb1-46bb-a09c-8c1ddb334cf1.png)
+
